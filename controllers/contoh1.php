@@ -9,3 +9,4 @@ class contoh1 extends CI_Controller
         olah raga yang saya sukai adalah tenis meja";
     }
 }
+//pertemuan 1
